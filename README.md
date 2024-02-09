@@ -1,3 +1,5 @@
+# Aloca e Libera - Simulação simplificada das funções Malloc e Free
+
 Este projeto implementa funções personalizadas de alocação e liberação de memória, semelhantes às funções `malloc` e `free` da biblioteca padrão C `(stdlib.h)`. Além disso, utiliza uma lista ligada para demonstrar o funcionamento dessas funções.
 
 Existem diversas abordagens para fazer isso. Eu escolhi um método que gastasse pouca memória para implementação e que, ao mesmo tempo, não tivesse alocações tão custosas.
